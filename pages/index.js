@@ -55,6 +55,9 @@ export default function Home({ allPostsData }) {
 }
 
 /*
+
+FETCHING AN API 
+
 export async function getAllPostIds() {
   // Instead of the file system,
   // fetch post data from an external API endpoint
